@@ -1,0 +1,15 @@
+# Archivos y carpetas que NO quiero subir
+
+# Carpeta de resultados
+output/
+wandb/
+__pycache__/
+
+# Archivos de logs
+*.log
+*.pt
+*.ckpt
+*.tar
+
+# Archivos temporales
+*.ipynb_checkpoints
